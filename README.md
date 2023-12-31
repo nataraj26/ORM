@@ -62,9 +62,7 @@ class StudentAdmin(admin.ModelAdmin):
 ```
 
 ## Output
-
-![Alt text](<Screenshot 2023-12-31 231030.png>)OUTPUT
-
+![Screenshot 2023-12-31 231030](https://github.com/nataraj26/ORM/assets/147514615/ad774dc6-2aba-4131-8ee1-fa4f81cb892f)
 ## RESULT
 
 Thus the program for creating a database using ORM hass been executed successfully
